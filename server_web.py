@@ -4,7 +4,7 @@ from flask import render_template
 
 
 
-web_app = Flask('test')
+web_app = Flask('server_test')
 
 
 def home():
